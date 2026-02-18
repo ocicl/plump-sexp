@@ -4,6 +4,6 @@ Library to turn SEXPs into a Plump-DOM and back.
 
 |---------+------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/plump-sexp.git |
-| commit  | 0000000                                        |
+| commit  | 0fbd580                                        |
 | systems | plump-sexp                                     |
 |---------+------------------------------------------------|
